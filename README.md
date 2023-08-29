@@ -5,4 +5,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: 
-   npm install
+npm install || yarn install
+
+## Step 2:
+npm run android || yarn android
+
+
