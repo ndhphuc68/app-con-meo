@@ -1,13 +1,40 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# APP CON MEO
+# App Con Meo
 
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+A brief description of what this project does and who it's for
 
-## Step 1: 
-npm install || yarn install
 
-## Step 2:
-npm run android || yarn android
+## Authors
 
+- [@ndhphuc68](https://github.com/ndhphuc68)
+
+
+![Logo](https://i.imgur.com/UKVXWnS.png)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ndhphuc68/app-con-meo.git
+```
+
+Go to the project directory
+
+```bash
+  cd app-con-meo
+```
+
+Install dependencies
+
+```bash
+  npm install || yarn install
+```
+
+Start the server
+
+```bash
+  npm run android || yarn android
+```
 
