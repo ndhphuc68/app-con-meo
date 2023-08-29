@@ -32,7 +32,7 @@ Install dependencies
   npm install || yarn install
 ```
 
-Start the server
+Run android
 
 ```bash
   npm run android || yarn android
